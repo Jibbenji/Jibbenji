@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming literate in a number of programming languages, to help improve my employability and futureproof myself. 
 - 🌱 I’m currently learning basic HTML and CSS, with the plan to broaden this to Python and C++.
 - 💞️ I’m looking for people that can help me learn, or provide resources to gain futher knowledge.
-- 📫 How to reach me message me through my github account.
+- 📫 How to reach me: Please message me through my github account <3.
 - 😄 Pronouns: He/Him
 
 <!---
